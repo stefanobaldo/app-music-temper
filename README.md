@@ -15,7 +15,8 @@ Passos para executar o app.
 	
 	
 	
-Soluções utilizadas
+Soluções utilizadas:
+
 Linguagem: Python 3
 Bibliotecas: Flask
 API: OpenWeatherMaps [https://openweathermap.org/api]
