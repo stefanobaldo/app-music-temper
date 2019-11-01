@@ -17,11 +17,11 @@ Passos para executar o app.
 	
 Soluções utilizadas:
 
-Linguagem: Python 3
-Bibliotecas: Flask
-API: OpenWeatherMaps [https://openweathermap.org/api]
-Apoio: https://www.vagalume.com.br (Gambiarra)
-Fonte de apoio: http://pythonclub.com.br/what-the-flask-pt-1-introducao-ao-desenvolvimento-web-com-python.html#views_e_roteamento_de_urls
-                https://blog.4linux.com.br/flask-basico/
+Linguagem: Python 3  
+Bibliotecas: Flask  
+API: OpenWeatherMaps [https://openweathermap.org/api]  
+Apoio: https://www.vagalume.com.br (Gambiarra)  
+Fonte de apoio: http://pythonclub.com.br/what-the-flask-pt-1-introducao-ao-desenvolvimento-web-com-python.html#views_e_roteamento_de_urls  
+                https://blog.4linux.com.br/flask-basico/  
 
 
